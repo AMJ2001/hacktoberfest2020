@@ -6,6 +6,7 @@ class Assignment1{
     // 1. WAP to find the nth term of fibonacci series
     public static void Fibonacci(){
         System.out.println("Enter the nth term of the fibonacci series");
+        System.out.println("MUJ KA ASSIGNMENT HUMNE BHI KARA HAI BTW");
         int nTerm = input.nextInt();
         int term1 = 0;
         int term2 = 1;
